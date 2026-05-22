@@ -2,6 +2,12 @@
 
 Aplicación Android de notas desarrollada con **Kotlin** y **Jetpack Compose**. Permite listar, crear, ver, editar y eliminar notas usando una base de datos local con **Room**.
 
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/3b80dd41-b629-4a61-883b-e1a04d17dd05" />
+ 
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/4593dc63-e1b5-4185-8b56-b79ff0a3d1a8" />
+
+
 ### Funcionalidades principales
 
 - Listado de notas ordenadas por fecha/ID.
